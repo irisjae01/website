@@ -1,2 +1,2 @@
-# website
-remaking joke website repository for csci 4018
+# Joke-Website
+Joke website for csci 4018
